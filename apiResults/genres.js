@@ -1,4 +1,4 @@
-{
+const genres = {
     "11":"Dramas militares",
     "26":"Mockumentaries",
     "83":"Programas de TV y series",
@@ -648,3 +648,5 @@
     "81562604":"Docuseries",
     "81562614":"Social & Cultural Docs"
     }
+
+export default genres;
